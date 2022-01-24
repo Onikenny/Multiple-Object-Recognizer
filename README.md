@@ -14,4 +14,4 @@ Read the final report on this project here on pages 7-11 here: [Understanding Ar
           Keras for Predictive modelling
           Seaborn 0.11.2, Matplotlib for data visualization
 
-The notebook can be run here: https://colab.research.google.com/drive/1XF0rdyk2dlhOpWTU2kopa3eBDeJVK5Hv?usp=sharing
+The notebook can be viewed here: https://colab.research.google.com/drive/1XF0rdyk2dlhOpWTU2kopa3eBDeJVK5Hv?usp=sharing or by loading the Jupyter notebook in the repo directory.
