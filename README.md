@@ -8,14 +8,14 @@ Read the final report on this project here on pages 7-11 here: [Understanding Ar
 
 
 ### Packages used:
-.         Python.3.10 
+- Python.3.10 
 
-.         Pandas Python Data Analysis Library. V.1.3.4 for data cleaning and pre-processing. Also, to generate Statistical profiling of data.
+- Pandas Python Data Analysis Library. V.1.3.4 for data cleaning and pre-processing. Also, to generate Statistical profiling of data.
 
-.         Sklearn for predictive analysis
+- Sklearn for predictive analysis
 
-.         Keras for Predictive modelling
+- Keras for Predictive modelling
 
-.         Seaborn 0.11.2, Matplotlib for data visualization
+- Seaborn 0.11.2, Matplotlib for data visualization
 
 The notebook can be viewed here: https://colab.research.google.com/drive/1XF0rdyk2dlhOpWTU2kopa3eBDeJVK5Hv?usp=sharing or by loading the Jupyter notebook in the repo directory.
